@@ -29,5 +29,11 @@ Pragmatic Programmer
 
 6. Communicate
 
+7. DRY - Don't repeat yourself!
+
+8. Orthogonality - Helicopter controls are NOT orthongonal!
+
+9. Reversibility
+
 
 ## Chapter 2 - 
